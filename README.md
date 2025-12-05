@@ -61,5 +61,10 @@ As consultas incluem:
 - Tenistas que participaram de mais de 3 torneios  
 
 ---
+## Diagrama ER
+
+![Diagrama ER](sistema.png)
+
+---
 
 Projeto criado para fins de estudo e portfólio.
